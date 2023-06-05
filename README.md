@@ -43,7 +43,11 @@ Tenho 20 anos, moro em Salvador-BA. Atualmente estou entrando de cabeça no mund
  <p align="left">☕ Reforçando o estereótipo, eu amo café, games e faço piadas ruins com certa frequência.</p>
 </div>
 
-
+<div>
+   <a href="https://github.com/LuccinhaCP">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccinhaCP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccinhaCP&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
   ![Snake animation](https://github.com/LuccinhaCP/LuccinhaCP/blob/output/github-contribution-grid-snake.svg)
 
