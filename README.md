@@ -1,4 +1,4 @@
-<img align="right" height="150" width="160px" style="margin-top: 50px" src="./tela5.png">
+<img align="right" height="150" width="160px" style="margin-top: 50px" src="./.github/src/images/tela5.png">
 
 
 
@@ -23,7 +23,7 @@ Tenho 20 anos, moro em Salvador-BA. Atualmente estou entrando de cabeça no mund
 
 
 <p align="center">
-  <img src="./tela2.gif" width="350">
+  <img src="./.github/src/images/tela2.gif" width="350">
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -37,10 +37,10 @@ Tenho 20 anos, moro em Salvador-BA. Atualmente estou entrando de cabeça no mund
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🔍 Faço parte do ACSO, dentro da equipe @home trabalhando com o robo de serviço <a href="https://www.acso.uneb.br/bill/">BILL</a></p>
- <p align="left">📕 Tenho estudado Git, JS e iniciei meus estudos para desenvolver páginas web</p>
- 
- <p align="left">☕ Reforçando o estereótipo, eu amo café, games e faço piadas ruins com certa frequência.</p>
+<p align="left">🔍 Fiz parte do ACSO, dentro da equipe @home trabalhando com o robo de serviço <a href="https://www.acso.uneb.br/bill/">BILL</a> ;</p>
+<p align="left">📕 Terminei meus estudos de Git, e comecei JS para finalizar meu aprendizado em desenvolvimento web;</p>
+<p align="left">🖋️ Atualmente, começando o 4° semestre da minha graduação em Ciência da Computação, na Unifacs;</p>
+<p align="left">☕ Reforçando o estereótipo, eu amo café, games e faço piadas ruins com certa frequência.</p>
 </div>
 
 <div>
